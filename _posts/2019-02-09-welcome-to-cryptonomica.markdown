@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Cryptonomica!"
+title:  "Welcome to Cryptonomica Blog!"
 date:   2019-02-09 17:35:23 +0200
 categories: cryptonomica update
 ---
