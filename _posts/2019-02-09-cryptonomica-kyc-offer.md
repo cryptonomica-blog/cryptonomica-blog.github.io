@@ -5,6 +5,25 @@ date:   2019-02-09 19:11:00 +0200
 categories: cryptonomica kyc offer
 ---
 
+<!-- MarkdownTOC -->
+
+- [Why it's better than to manage own identity verification procedure](#why-its-better-than-to-manage-own-identity-verification-procedure)
+- [How it works](#how-it-works)
+- [Cryptonomica user identification procedure](#cryptonomica-user-identification-procedure)
+	- [Step 0](#step-0)
+	- [Step 1](#step-1)
+	- [Step 2](#step-2)
+	- [Step 3](#step-3)
+	- [Step 4](#step-4)
+	- [Step 5](#step-5)
+	- [Step 6](#step-6)
+- [How our API works](#how-our-api-works)
+- [Optional Ethereum address verification](#optional-ethereum-address-verification)
+- [Security and scalability](#security-and-scalability)
+- [Recognition](#recognition)
+
+<!-- /MarkdownTOC -->
+
 [Cryptonomica](https://cryptonomica.net) offers user identity verification (for [KYC](https://en.wikipedia.org/wiki/Know_your_customer) etc.) for services such as banks, exchanges, financial companies, payment institutions.  
 
 # Why it's better than to manage own identity verification procedure 

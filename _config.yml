@@ -16,7 +16,7 @@
 title: Cryptonomica Blog
 email: support@cryptonomica.zendesk.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cryptonomica.net is a service for an universal digital identity with legal framework.
+  Cryptonomica.net : universal digital identity with legal framework
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
