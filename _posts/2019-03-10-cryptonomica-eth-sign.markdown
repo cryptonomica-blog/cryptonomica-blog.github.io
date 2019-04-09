@@ -14,3 +14,4 @@ You do not need ETH to sign or to verify signature, just [MetaMask](https://meta
 Information about key owner is read from cryptonomica [smart contract](https://etherscan.io/address/0x846942953c3b2A898F10DF1e32763A823bf6b27f) that keeps information about verified keys. 
 
 To store key information in [smart contract](https://etherscan.io/address/0x846942953c3b2A898F10DF1e32763A823bf6b27f) you can verify your identity via [Cryptonomica](https://cryptonomica.net).
+
