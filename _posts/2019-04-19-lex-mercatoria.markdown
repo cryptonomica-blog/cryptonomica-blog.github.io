@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Cryptonomica: ex aequo et bono and new lex mercatoria"
+date:   2019-04-19 10:00:00 +0300
+---
+
+![Lex Mercatoria ancient book.png](/images/lex.mercatoria.ancient.book.png)
+
+[Cryptonomica](https://cryptonomica.net) is developing tools to create international (or supranational) legal system for business contracts. Internet provides international informational layer for exchanging information, and cryptocurrencies provide supranational financial system. This new reality needs new legal tools. And these tools are not just legal but should be also technology based. 
+
+Digital identity is the key element of this  supranational legal system of the digital age. To represent identity in Cryptonomica we use cryptographic keys. This allows user to make contacts in different ways: signing contracts, sending blockchain transactions, authorizing on web services.
+                                          
+To make digital contracts recognizable and enforceable in legacy local (national) legal systems Cryptonomica uses existing international law. Cryptonomica is a permanent arbitration institution (court of arbitration) based in London, U.K. We allow users to include our arbitration clause in electronic contracts. This mean that if there is a dispute and a need to enforce a contract parties of the contract can apply to Cryptonomica to obtain a document (“arbitration award”) that will be enforced in almost any country under the [UN Convention on the Recognition and Enforcement of Foreign Arbitral Awards](http://www.uncitral.org/uncitral/uncitral_texts/arbitration/NYConvention.html), and this arbitral award should be recognized and enforced regardless of 1) what facts the arbitral tribunal established, 2) on the basis of what evidence it established these facts, 3) what law applied the arbitration court. 
+                                          
+Thus for enforcement of the electronic contracts made on Cryptonomica system, local legislation on electronic documents and digital signatures is not important, local authorities will enforce the award regardless of them. But it’s not just the form of the agreements, but also the law applicable to their content. In [Cryptonomica Arbitration Rules](https://github.com/Cryptonomica/arbitration-rules/blob/master/Arbitration_Rules/Cryptonomica/Cryptonomica-Arbitration-Rules.EN.clearsigned.md), unlike the rules of all other arbitration institutions written that our [“arbitral tribunal shall decide ex aequo et bono unless otherwise agreed by the parties”](https://github.com/Cryptonomica/arbitration-rules/blob/master/Arbitration_Rules/Cryptonomica/Cryptonomica-Arbitration-Rules.EN.clearsigned.md#applicable-law-ex-aequo-et-bono) [Ex aequo et bono](http://www.duhaime.org/LegalDictionary/E/ExAequoEtBono.aspx) is a rule that enables arbitrators to decide a case according to what—in literal translation of the original Latin phrase—‘is fair (or equitable) and good’ That is also to say ‘in good conscience’ and notwithstanding the written legislation. 
+
+The ancient concept, which has not been used for a long time, but the application of which in arbitration remains legal, opens the way for us to rise above the restrictions imposed by segmented, obsolete local legislation. 
+                                          
+In the period of feudal fragmentation in medieval Europe there existed supranational "merchant law" - [lex mercatoria](https://en.wikipedia.org/wiki/Lex_mercatoria). Lex mercatoria was not a law enacted by a states, but rules and principles laid down by merchants to regulate their dealings. 
+                                          
+Now we are also in a situation where the segmented national legislation is in contradiction with the global market created by information technology (Internet, electronic documents, blockchains and cryptocurrencies), but now we have incomparably more advanced tools for working on the supranational "merchant law", on the new lex mercatoria, such as git, wiki and other collaboration tools. Cryptonomica is the first arbitration institution, that published its Arbitration Rules on [github](https://github.com/Cryptonomica/arbitration-rules). Today we can create law by collaboration of like minded professions, like open source software is created.
+
+And [Cryptonomica](https://cryptonomica.net) is the first hi-tech platform that can be used to create, implement and legally enforce merchant law of the epoch, the new lex mercatoria. The law to be embodied in cryptographically protected electronic contracts.
