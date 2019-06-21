@@ -4,7 +4,7 @@ title:  "Cryptonomica: ex aequo et bono and new lex mercatoria"
 date:   2019-04-19 10:00:00 +0300
 ---
 
-![Lex Mercatoria ancient book.png](/images/lex.mercatoria.ancient.book.png)
+![Lex Mercatoria ancient book](/images/lex.mercatoria.ancient.book.png)
 
 [Cryptonomica](https://cryptonomica.net) is developing tools to create international (or supranational) legal system for business contracts. Internet provides international informational layer for exchanging information, and cryptocurrencies provide supranational financial system. This new reality needs new legal tools. And these tools are not just legal but should be also technology based. 
 

@@ -21,8 +21,8 @@ verified on [etherscan.io](https://etherscan.io)
 
 Bills of exchange are created as tokens ([ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) 
 in smart contract, where every token is a bill of exchange in blank - payable to bearer (bearer is the owner 
-of the Ethereum address witch holds the tokens, or the person he/she represents), but "not to order" 
-- that means no endorsement is possible and the token holder can only transfer the token (bill of exchange in blank) itself.
+of the Ethereum address witch holds the tokens, or the person he/she represents), but "not to order" - that means 
+no endorsement is possible and the token holder can only transfer the token (bill of exchange in blank) itself.
 
 To draw or to accept bills of exchange a person has to use Ethereum address verified on Cryptonomica.net, 
 and has to sign an arbitration agreement that makes possible to make legal claims on payments on bills and to 
@@ -32,3 +32,7 @@ See more on our approach to private law in
 [Cryptonomica: ex aequo et bono and new lex mercatoria](https://medium.com/cryptonomica/cryptonomica-ex-aequo-et-bono-and-new-lex-mercatoria-72eef36a2cd5).
 
 See also a page on the Cryptonomica wiki about our [electronic bills of exchange](https://github.com/Cryptonomica/cryptonomica/wiki/electronic-bills-of-exchange)
+
+Cryptonomica bills of exchange dApp: 
+
+[![Cryptonomica bills of exchange dApp](/images/2019-06-10_21-20.cryptonomica.bills.of.exchange.png)](https://cryptonomica.net/bills-of-exchange/)
