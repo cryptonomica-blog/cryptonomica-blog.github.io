@@ -10,9 +10,8 @@ that makes possible to create and to transfer electronic bills of exchange on th
 
 [cryptonomica.net/bills-of-exchange](https://cryptonomica.net/bills-of-exchange/)
 
-Electronic bills of exchange can be created as smart contracts implementing requirements of an "instrument" as defined 
-in [Geneva Convention](https://www.jus.uio.no/lm/bills.of.exchange.and.promissory.notes.convention.1930/doc.html) or 
-of an "order in writing" as defined in [U.K. Bills of Exchange Act 1882](http://www.legislation.gov.uk/ukpga/Vict/45-46/61/contents) 
+Electronic bills of exchange can be created as smart contracts implementing requirements of an "order in writing" 
+as defined in [U.K. Bills of Exchange Act 1882](http://www.legislation.gov.uk/ukpga/Vict/45-46/61/contents) 
 or of a "draft" as defined in [U.S. Uniform Commercial Code](https://www.law.cornell.edu/ucc/3/3-104).
 
 Bills of exchange smart contracts are created by the "Bills of Exchange Factory" smart contract. 
