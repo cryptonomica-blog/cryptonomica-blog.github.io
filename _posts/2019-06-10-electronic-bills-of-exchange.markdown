@@ -30,7 +30,8 @@ resolve disputes in our [online arbitration tribunal](https://cryptonomica.net/#
 See more on our approach to private law in 
 [Cryptonomica: ex aequo et bono and new lex mercatoria](https://medium.com/cryptonomica/cryptonomica-ex-aequo-et-bono-and-new-lex-mercatoria-72eef36a2cd5).
 
-See also a page on the Cryptonomica wiki about our [electronic bills of exchange](https://github.com/Cryptonomica/cryptonomica/wiki/electronic-bills-of-exchange)
+See also a page on the Cryptonomica wiki about our [electronic bills of exchange](https://github.com/Cryptonomica/cryptonomica/wiki/electronic-bills-of-exchange) 
+and our [pitch deck](http://bit.ly/BoE-pitch-deck)
 
 Cryptonomica bills of exchange dApp: 
 
