@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Voting on the Ethereum blockchain"
+date:   2019-07-19 03:00:00 +0200
+categories: smartcontracts ethereum dapps
+---
+
+Cryptonomica has developed a decentralized application (dApp) that makes possible to organize a voting for tokeholders of any #erc20 token on the Ethereum blockchain. 
+
+Voting uses the principle "one token - one vote". 
+
+Our application does not interfere with the operation of the smart contract, and does not require blocking the transfer of tokens during voting.
+
+When placing proposals for voting, the initiator determines the number of the block in which the results will be calculated. 
+
+Voices for or against may be cast before the indicated block. For counting votes it only matters how many tokens the token owner had at the time of the block in which the results should be counted. This number of tokens is taken into account according to how their owner voted (for or against).
+
+Technically dApp consists of a #smartcontract that records proposals and votes, and a JavaScript application that counts registered voices and provides user interface to work with the smart contract.
+
+It works now on [cryptonomica.net/eth-vote/](https://cryptonomica.net/eth-vote/)
+
+dApp code is open sourced and published on [Github](https://github.com/Cryptonomica/cryptonomica/tree/master/src/main/webapp/eth-vote)
+ 
+We plan to use this module to release an updated version of cryptoshares (about our past legal cryptoshares issue see: http://bit.ly/cryptoshares)
