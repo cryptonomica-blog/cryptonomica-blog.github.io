@@ -23,6 +23,4 @@ dApp code is open sourced and published on [Github](https://github.com/Cryptonom
  
 We plan to use this module to release an updated version of cryptoshares (about our past legal cryptoshares issue see: [bit.ly/cryptoshares](http://bit.ly/cryptoshares))
 
-[[![eth-vote dApp](/images/eth-voting.2019-07-18.png)]](https://cryptonomica.net/eth-vote/)
-
-[[![eth-vote dApp](/images/eth-voting.2.2019-07-18.png)]](https://cryptonomica.net/eth-vote/)
+[![eth-vote dApp](/images/eth-voting.2.2019-07-18.png)](https://cryptonomica.net/eth-vote/)
