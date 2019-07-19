@@ -5,7 +5,7 @@ date:   2019-07-19 01:00:00 +0200
 categories: smartcontracts ethereum dapps
 ---
 
-Cryptonomica has developed a decentralized application (dApp) that makes possible to organize a voting for tokeholders of any #erc20 token on the Ethereum blockchain. 
+Cryptonomica has developed a decentralized application (dApp) that makes possible to organize a voting for tokeholders of any [erc20](https://en.wikipedia.org/wiki/ERC-20) token on the Ethereum blockchain. 
 
 Voting uses the principle "one token - one vote". 
 
@@ -21,4 +21,8 @@ It works now on [cryptonomica.net/eth-vote/](https://cryptonomica.net/eth-vote/)
 
 dApp code is open sourced and published on [Github](https://github.com/Cryptonomica/cryptonomica/tree/master/src/main/webapp/eth-vote)
  
-We plan to use this module to release an updated version of cryptoshares (about our past legal cryptoshares issue see: http://bit.ly/cryptoshares)
+We plan to use this module to release an updated version of cryptoshares (about our past legal cryptoshares issue see: [bit.ly/cryptoshares](http://bit.ly/cryptoshares))
+
+[[![eth-vote dApp](/images/eth-voting.2019-07-18.png)]](https://cryptonomica.net/eth-vote/)
+
+[[![eth-vote dApp](/images/eth-voting.2.2019-07-18.png)]](https://cryptonomica.net/eth-vote/)
